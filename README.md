@@ -1,4 +1,4 @@
-### Hi there, I'm Ma'rufjon Mamatkulov. <img src="https://media2.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e475qt2xtir5a47uk98zqmgd1bpepypmbxfvugi1vrm&rid=giphy.gif&ct=s" width="40px">
+### Hi there, I'm Ma'rufjon Mamatkulov. <img src="https://media2.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e475qt2xtir5a47uk98zqmgd1bpepypmbxfvugi1vrm&rid=giphy.gif&ct=s" width="40px" margin-bottom="0">
 
 <!--
 **mamatkulov95/mamatkulov95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
