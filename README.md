@@ -4,11 +4,12 @@
 - 👯 I’m looking to collaborate on any Web development ideas.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ma-rufjon-mamatkulov-a57ba717b/">Click here for LinkedIn<a/>
 ###Languages and tools I work with:
-  <code> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png"<code/>
+  <code> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png"><code/>
 <!--
 **mamatkulov95/mamatkulov95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![image](https://user-images.githubusercontent.com/49342620/196334112-e1b32091-7566-4dcb-87da-64905290953b.png)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
