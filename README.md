@@ -4,8 +4,12 @@
 - 👯 I’m looking to collaborate on any Web development ideas.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ma-rufjon-mamatkulov-a57ba717b/">Click here for LinkedIn<a/>
   <br>
-###Languages and tools I work with:
+### Languages and tools I work with:
   <br>
   
   <code> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" width="40px"><code/>
+  <code> <img src="https://cdn-icons-png.flaticon.com/128/331/331383.png" width="40px"><code/>
+  <code> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="40px"><code/>
+  <code> <img src="https://cdn-icons-png.flaticon.com/128/875/875209.png" width="40px"><code/>
+    
 
