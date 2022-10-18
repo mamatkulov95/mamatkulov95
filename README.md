@@ -1,4 +1,8 @@
 ### Hi there, I'm Ma'rufjon Mamatkulov. <img src="https://media2.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e475qt2xtir5a47uk98zqmgd1bpepypmbxfvugi1vrm&rid=giphy.gif&ct=s" width="40px" margin-bottom="0">
+- 🔭 I’m currently working on React JS
+- 🌱 I’m currently learning MERN
+- 👯 I’m looking to collaborate on any Web development ideas.
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/ma-rufjon-mamatkulov-a57ba717b/">Click here for LinkedIn<a/>
 
 <!--
 **mamatkulov95/mamatkulov95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
